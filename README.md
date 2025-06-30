@@ -8,7 +8,7 @@ This repository contains the Jupyter Notebook `dogs-and-cats.ipynb`, which provi
 
   * **Kaggle Competition Link:** [Dogs vs. Cats Redux: Kernels Edition](https://www.kaggle.com/competitions/dogs-vs-cats-redux-kernels-edition)
   * **Evaluation Metric:** LogLoss
-  * **Achieved Score:** 0.51441
+  * **Achieved Score:** 0.62190
 
 ## Project Overview
 
